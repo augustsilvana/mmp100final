@@ -1,0 +1,22 @@
+body{background-color:rgb(67, 207, 226)}
+h1{width: 500px;
+text-align: center;
+margin:0 auto;
+background-color: rgba(167, 30, 246, 0.27);
+color: rgb(116, 15, 144);
+padding: .25em;
+}
+h2{color:rgb(230, 206, 21);
+    width:500px;
+    margin: 1em auto;
+    text-align: center;}
+img{display:block;
+    margin: 0 auto;}
+p,ol,li,a{
+    width: 500px;
+    margin: 0 auto;
+    color: rgb(209, 134, 5);}
+a{text-decoration:none;}
+a:hover{color: rgb(212, 165, 47);}
+p.credits{font-size: 0.5em;}
+p.Start{font-style: italic;}
